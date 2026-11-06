@@ -1,0 +1,22 @@
+# Python environments
+.venv/
+venv/
+.env
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local database and runtime files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Editor / OS files
+.DS_Store
+.idea/
+.vscode/
